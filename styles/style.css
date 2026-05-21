@@ -363,13 +363,14 @@ html {
 
 .footer__columns {
   display: flex;
-  justify-content: space-between;
 }
 
 .footer__column_content_hours {
+  margin-left: auto;
 }
 
 .footer__column_content_social {
+  margin-left: 80px;
 }
 
 .footer__list-item:last-child {
@@ -416,6 +417,6 @@ html {
 .footer__copyright {
   font-size: 16px;
   line-height: 20px;
-  margin-top: auto;
+  margin-top: 100px;
   margin-bottom: 0;
 }
